@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 5th, 2020
+### Day 0: January 5th, 2021
 
 **Today's Progress**: Fixed CSS, continued learning async/await
 
-**Thoughts:** I'm still focusing on preparing my professional materials after the bootcamp ended, and have a meeting scheduled tomorrow with the University's career services. I spent most of my time today making my porfolio more visually appealing. I also continued a Codeacademy lesson on async/await.
+**Thoughts:** I'm still focusing on preparing my professional materials after the bootcamp ended, and have a meeting scheduled tomorrow with the University's career services. I spent most of my time today making my portfolio more visually appealing. I also continued a Codeacademy lesson on async/await.
 
 **Link to work:** [Portfolio](https://www.tomoverland.com)
 
