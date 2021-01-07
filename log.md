@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 6th, 2021
+
+**Today's Progress**: Updated Resume, started new lesson on Codecademy on Advanced React.
+
+**Thoughts:** I spent today planning out what I would like to get out of these 100 days of coding. The first week, I would like to update my front facing bootcamp projects to be more visually appealing. Once that is complete, I would like to start creating some projects that use Angular, TypeScript, Redux, or other popular tech that complements React.
+
 ### Day 0: January 5th, 2021
 
 **Today's Progress**: Fixed CSS, continued learning async/await
