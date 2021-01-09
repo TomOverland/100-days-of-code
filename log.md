@@ -2,9 +2,9 @@
 
 ### Day 2: January 8th, 2021
 
-**Today's Progress**: Learned about container components and presentational components in React.
+**Today's Progress**: Learned about container components, presentational components, and propTypes in React.
 
-**Thoughts:** I missed the seventh, as life goes, but spent today coding on Codecademy's Advanced React lessons. They are still teaching class based components, which I am fairly confident in by now. I would like to challenge myself by using functional based components and Redux to create my own hooks.
+**Thoughts:** I missed the seventh, as life demanded my attention elsewhere, but spent today coding on Codecademy's Advanced React lessons. They are still teaching class based components, which I am fairly confident in by now. I would like to challenge myself by using functional based components and Redux to create my own hooks.
 
 ### Day 1: January 6th, 2021
 
