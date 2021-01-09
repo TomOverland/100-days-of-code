@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 9th, 2021
+
+**Today's Progress**: Spent time learning ComponentDidMount, componentWillUnmount, componentDidUpdate. Finished a form from yesterday that updated state on keystroke.
+
+**Thoughts**: I'm still struggling with learning what "events" are - in the context of using them as parameters to update things like an input's text value using event.target.value on an update function. I continued learning about the life cycle of a React Component today by practicing with componentDidMount. I created a Clock component that updated state with a 'new Date()' on a setInterval delay of 1 second to display the current time.
+
 ### Day 2: January 8th, 2021
 
 **Today's Progress**: Learned about container components, presentational components, and propTypes in React.
