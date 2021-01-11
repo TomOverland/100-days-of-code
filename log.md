@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 10th, 2021
+
+**Today's Progress**: I revisted my google books project and attempted to do some styling work on it. When I dug into it, I found that the search function had broken. I wasn't able to fix it, and will be revisiting it again tomorrow.
+
+**Thoughts**: I'm not quite sure what broke the search. I reverted the code to a previous version that was working, and it is still not working. Now that I know I should be using state to hold the e.target.value of the input, I can take this time to properly code out the input field.
+
 ### Day 3: January 9th, 2021
 
 **Today's Progress**: Spent time learning ComponentDidMount, componentWillUnmount, componentDidUpdate. Finished a form from yesterday that updated state on keystroke.
