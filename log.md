@@ -6,6 +6,8 @@
 
 **Thoughts**: I'm not quite sure what broke the search. I reverted the code to a previous version that was working, and it is still not working. Now that I know I should be using state to hold the e.target.value of the input, I can take this time to properly code out the input field.
 
+**Link to Work:** [Google Books Search](https://damp-shelf-31146.herokuapp.com/)
+
 ### Day 3: January 9th, 2021
 
 **Today's Progress**: Spent time learning ComponentDidMount, componentWillUnmount, componentDidUpdate. Finished a form from yesterday that updated state on keystroke.
