@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 11th, 2021
+
+**Today's Progress**: I found the issue on my google books search. The API was returning image url strings which started with http://, and my https:// website host didn't like them. I worked on my Yelp clone most of today and planned out adding a back end to it. I also worked on my component life cycle practice, by creating a social network for pets on Codecademy.
+
+**Thoughts**: I'm frustrated that my google books application isn't working as well as it once was, but I'm glad I was able to recognize the issue. I've pulled it from my resume for the time being, as I need to fix it before I want it displayed.
+
+**Link to Work:** [Google Books Search](https://damp-shelf-31146.herokuapp.com/), [Ravenous](https://github.com/TomOverland/ravenous)
+
 ### Day 4: January 10th, 2021
 
 **Today's Progress**: I revisted my google books project and attempted to do some styling work on it. When I dug into it, I found that the search function had broken. I wasn't able to fix it, and will be revisiting it again tomorrow. It will accept single word searches, but reject multiple words such as 'harry potter'.
