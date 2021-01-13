@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 12th, 2021
+
+**Today's Progress**: Today I worked on creating a backend server and learning more about node and express.
+
+**Thoughts**: I wish I had more time to code tonight, but it looks like Tuesdays are going to be tough due to other commitments. I will just have to code earlier in the day to accomodate.
+
 ### Day 5: January 11th, 2021
 
 **Today's Progress**: I found the issue on my google books search. The API was returning image url strings which started with http://, and my https:// website host didn't like them. I worked on my Yelp clone most of today and planned out adding a back end to it. I also worked on my component life cycle practice, by creating a social network for pets on Codecademy.
