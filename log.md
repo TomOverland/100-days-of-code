@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 13th, 2021
+
+**Today's Progress**: Today I created a simple to do list using Redux. You can add items to the list from an input, and remove them by clicking on the item.
+
+**Thoughts**: I can see why using Redux is a very easy way to manage state. I still struggle to manage state with functional components in React, so this will be really beneficial to continue to learn. I want to challenge myself to build a React app with Redux this weekend.
+
 ### Day 6: January 12th, 2021
 
 **Today's Progress**: Today I worked on creating a backend server and learning more about node and express.
