@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 18th, 2021
+
+**Today's Progress**: Today I worked on some server side code to help a friend create a matchmaking server for an old video game. I also researched common middleware packages (mainly morgan as a logger, and body-parser). I also spent some time with functional components and learning how to manipulate state.
+
+**Link to Work**: [CCCasterServer](https://github.com/PeterAlanAnderson/CCCasterServer)
+
 ### Day 7: January 13th, 2021
 
 **Today's Progress**: Today I created a simple to do list using Redux. You can add items to the list from an input, and remove them by clicking on the item.
