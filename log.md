@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 20th, 2021
+
+**Today's Progress**: Today I worked on unit tests and POST requests on a retro fighting game server application.
+
+**Link to Work**: **Link to Work**: [CCCasterServer](https://github.com/PeterAlanAnderson/CCCasterServer)
+
+### Day 9: January 19th, 2021
+
+**Today's Progress**: Updated my react portfolio, resolved a really annoying commit issue where "this page is out of date" would prompt after I tried to resolve on github.
+
+**Link to Work**: [Portfolio](https://www.tomoverland.com)
+**Link to Work**: [CCCasterServer](https://github.com/PeterAlanAnderson/CCCasterServer)
+
 ### Day 8: January 18th, 2021
 
 **Today's Progress**: Today I worked on some server side code to help a friend create a matchmaking server for an old video game. I also researched common middleware packages (mainly morgan as a logger, and body-parser). I also spent some time with functional components and learning how to manipulate state.
