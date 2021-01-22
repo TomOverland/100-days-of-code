@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 21st, 2021
+
+**Today's Progress**: Today I continued to work on unit tests and a 'hasMatch' function for a friend's matchmaking application. I changed mock users into dynamic users and got the jest tests passing!
+
+**Link to Work**: [CCCasterServer](https://github.com/PeterAlanAnderson/CCCasterServer)
+
 ### Day 10: January 20th, 2021
 
 **Today's Progress**: Today I worked on unit tests and POST requests on a retro fighting game server application.
 
-**Link to Work**: **Link to Work**: [CCCasterServer](https://github.com/PeterAlanAnderson/CCCasterServer)
+**Link to Work**: [CCCasterServer](https://github.com/PeterAlanAnderson/CCCasterServer)
 
 ### Day 9: January 19th, 2021
 
